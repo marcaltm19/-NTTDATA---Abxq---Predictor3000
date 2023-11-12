@@ -22,9 +22,9 @@ Against all odds, we managed to produce a functioning project. It might not be t
 Aside from the obvious lesson that coding is both an art and a science, we learned the value of collaboration, resilience, and the importance of taking breaks when the infamous "code blindness" sets in. We discovered that the computer science community is more forgiving than we thought, as long as you're willing to laugh at your mistakes and learn from them.
 
 <br></br>
-***Authors*** <br></br>
-Noel Freire, Jordi Abelló, Marçal Tejedor
-
-<br></br>
 ***What's next for Abxq*** <br></br>
 The sky's the limit for Abxq! Well, maybe not the sky, but at least the next computer science assignment. Equipped with newfound knowledge and battle scars from our coding adventure, we're ready to take on whatever challenges come our way. Next stop: conquering more complex projects and, of course, mastering the art of writing code that doesn't require a detective to debug.
+
+<br></br>
+***Authors*** <br></br>
+Noel Freire, Jordi Abelló, Marçal Tejedor
